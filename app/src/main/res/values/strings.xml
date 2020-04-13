@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RecyclerView1</string>
+
+    <string-array name="shoes_brand">
+        <item>Converse</item>
+        <item>Vans</item>
+        <item>Nike</item>
+        <item>Adidas</item>
+        <item>New Balance</item>
+        <item>Reebok</item>
+        <item>Compass</item>
+        <item>Bro.do</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Converse adalah sepatu yang berasald dari Amerika sejak 1908, namun pada tahun 2003 dibeli oleh Nike dan menjadi anak perusahaannya. Converse memproduksi produk dibawah nama dagang seperti One Star, Chuck Taylor All Star, dan Jack Purcell.</item>
+        <item>Vans adalah sepatu skateboard dari Amerika Serikat. Tipe sepatu Vans terdiri dari UA Authentic, Old Skool Platform, UA Classic Slip On Gum Block, Gumsole Authentic, dll </item>
+        <item>Nike adalah sepatu olahraga dari Amerika Serikat yang merupakan salah satu yang terbesar di dunia. Salah satu yang terkenal dari tipe sepatu ini yaitu Nike Air.  </item>
+        <item>Adidas adalah perusahaan sepatu asal Jerman yang berdiri sejak 1920-an. Salah satu tipe yang hits yaitu Yeezy yang harganya hingga puluhan juta. </item>
+        <item>New Balance adalah perusahaan sepatu olahraga yang diproduksi di Amerika. Salah satu tipe yang terkenal yaitu New Balance 576.</item>
+        <item>Reeboo adalah salah satu produsen sepatu olahraga sejak 1895 yang didirikan di Inggris. Salah satu yang terkenal yaitu Reebok Zig Kinetica. </item>
+        <item>Sepatu Compass merupakan merek sepatu lokal yang berasal dari Bandung dengan sistem vulkanisir dan desain yang sangat berkualitas. Salah satu yang terkenal yaitu tipe Gazelle.</item>
+        <item>Brodo adalah perusahaan fashio pria yang berpusat di Bandung. Penjualan pertama Brodo pada tahun 2010 melalui jejaring sosial media. </item>
+    </string-array>
+</resources>
